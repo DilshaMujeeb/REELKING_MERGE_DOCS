@@ -71,6 +71,10 @@ such as posting, liking, commenting, sharing, following, and unfollowing other u
 Real-time Communication Endpoints: Facilitates real-time messaging and notifications through WebSocket-based endpoints powered by Socket.IO,
 allowing users to engage in instant communication and receive updates in real-time.
 
+## Socket.IO Repository
+- Link to the Socket.IO repository: [Socket.IO Repository](https://github.com/DilshaMujeeb/Social_Media_socket.io)
+The Socket.IO repository houses the server-side implementation for real-time communication in the ReelKing application.
+It provides the infrastructure for enabling instant messaging, notifications, and other real-time features through WebSocket-based endpoints.
 
 ## Setup Instructions
 
@@ -86,6 +90,7 @@ git clone <repository_url>
 Navigate to Frontend and Backend Directories:
 cd client
 cd server
+cd socket.io  
 
 Install Dependencies:
 Inside both the frontend and backend directories, install the required dependencies using npm:
@@ -103,6 +108,12 @@ npm start
 Run the Frontend Application:
 Open a new terminal window, navigate to the frontend directory, and start the frontend application:
 npm start
+
+Run Socket.io Server:
+Open a new terminal window, navigate to the socket.io directory, and start:
+npm start
+
+
 Access the Application:
 Once both the backend and frontend servers are running, you can access the ReelKing application by opening your web browser and 
 navigating to http://localhost:3000 (or the specified port if configured differently).
