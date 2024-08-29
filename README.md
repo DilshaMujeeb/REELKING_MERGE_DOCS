@@ -1,7 +1,6 @@
 # ReelKing Project Documentation
 
 This repository contains documentation for the project "ReelKing". 
-live - https://reelking.vercel.app/auth
 
 ## Overview
 
