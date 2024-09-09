@@ -1,6 +1,6 @@
 # ReelKing Project Documentation
 
-This repository contains documentation for the project "ReelKing". 
+This repository contains documentation and link to the code for the project "ReelKing". 
 
 ## Overview
 
